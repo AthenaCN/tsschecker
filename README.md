@@ -24,6 +24,7 @@ By using all of its customization possibilities, you might discover a combinatio
   Make sure these are installed
   * [libcurl](https://curl.haxx.se/libcurl/)
   * [libplist](https://github.com/libimobiledevice/libplist)
+  * [libirecovery](https://github.com/libimobiledevice/libirecovery)
   * [libfragmentzip](https://github.com/AthenaCN/libfragmentzip)
 * ## Submodules
   Make sure these projects compile on your system
