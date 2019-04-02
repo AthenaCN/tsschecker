@@ -4,7 +4,7 @@ _tsschecker is a powerful tool to check tss signing status of various devices an
 
 Latest compiled version can be found here:  
 (MacOS + Linux + ~~Windows~~)  
-http://api.tihmstar.net/builds/tsschecker/tsschecker-latest.zip
+https://github.com/AthenaCN/tsschecker/archive/master.zip
 
 Windows support has stopped. 
 
@@ -24,10 +24,10 @@ By using all of its customization possibilities, you might discover a combinatio
   Make sure these are installed
   * [libcurl](https://curl.haxx.se/libcurl/)
   * [libplist](https://github.com/libimobiledevice/libplist)
-  * [libfragmentzip](https://github.com/tihmstar/libfragmentzip)
+  * [libfragmentzip](https://github.com/AthenaCN/libfragmentzip)
 * ## Submodules
   Make sure these projects compile on your system
-  * [jssy](https://github.com/tihmstar/jssy)
+  * [jssy](https://github.com/AthenaCN/jssy)
 
 
 ## tsschecker help  
@@ -57,3 +57,5 @@ Usage: `tsschecker [OPTIONS]`
 |                |`--nocache`       	     | ignore caches and re-download required files                                      |
 |                |`--print-tss-request`      | prints tss request that will be sent (plist)                                      |
 |                |`--print-tss-response`     | prints tss response that come from Apple (plist)                                  |
+
+###The tsschecker is an original copy from @tihmstar(https://github.com/tihmstar/tsschecker)
