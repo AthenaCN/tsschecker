@@ -58,4 +58,4 @@ Usage: `tsschecker [OPTIONS]`
 |                |`--print-tss-request`      | prints tss request that will be sent (plist)                                      |
 |                |`--print-tss-response`     | prints tss response that come from Apple (plist)                                  |
 
-###The tsschecker is an original copy from @tihmstar(https://github.com/tihmstar/tsschecker)
+### The tsschecker is an original copy from @tihmstar(https://github.com/tihmstar/tsschecker)
