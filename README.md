@@ -19,7 +19,7 @@ By using all of its customization possibilities, you might discover a combinatio
 # Dependencies
 *  ## Bundled Libs
   Those don't need to be installed manually
-  * [tss](https://github.com/libimobiledevice)
+  * [libimobiledevice](https://github.com/libimobiledevice)
 * ## External Libs
   Make sure these are installed
   * [libcurl](https://curl.haxx.se/libcurl/)
